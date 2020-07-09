@@ -3,7 +3,7 @@
 <!--
 **nepalprabin/nepalprabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+https://www.linkedin.com/in/prabin-nepal/
 I'm Prabin Nepal and I 💓 everything about deep learning.
 
 I have just started my career in tech field and working as a software engineer.
