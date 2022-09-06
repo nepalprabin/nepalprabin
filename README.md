@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nepalprabin" alt="nepalprabin" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning for Computer Vision**
+- 🌱 I’m currently learning **Deep Learning for Computer Vision and NLP**
 
-- 📝 I regulary write articles on [prabinnepal.com](prabinnepal.com)
+- 📝 I write articles on [nepalprabin.github.io](nepalprabin.github.io)
 
 - 💬 Ask me about **Full Stack Development, Deep Learning**
 
