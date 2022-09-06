@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabin Nepal</h1>
-<h3 align="center">A passionate software developer from Nepal</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nepalprabin" alt="nepalprabin" /> </p>
 
