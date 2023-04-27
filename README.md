@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning for Computer Vision and NLP**
 
-- 📝 I write articles on [nepalprabin.github.io](https://nepalprabin.github.io)
+<!-- - 📝 I write articles on [nepalprabin.github.io](https://nepalprabin.github.io) -->
 
 - 💬 Ask me about **Full Stack Development, Deep Learning**
 
